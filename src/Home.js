@@ -38,13 +38,13 @@ function Home() {
           />
           <Product
             title="Logitech USB Headset H390 with Noise Cancelling Mic"
-            image="https://images-na.ssl-images-amazon.com/images/I/61CqYq%2BxwNL._AC_SL1500_.jpg"
+            image="https://resizeimage.net/myimg/FUFtsJ3HXstsJVLz-pic-jpg"
             price={44.95}
             rating={3}
           />
           <Product
             title=" Apple iPhone 11 (64GB) - Black )"
-            image="https://images-na.ssl-images-amazon.com/images/I/51kGDXeFZKL._SL1024_.jpg"
+            image="https://resizeimage.net/myimg/7SDIndfGwlUwReg1-pic-jpg"
             price={800.0}
             rating={3}
           />
