@@ -38,13 +38,13 @@ function Home() {
           />
           <Product
             title="Logitech USB Headset H390 with Noise Cancelling Mic"
-            image="https://resizeimage.net/myimg/FUFtsJ3HXstsJVLz-pic-jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/71IO46PwSwL._SL1500_.jpg"
             price={44.95}
             rating={3}
           />
           <Product
             title=" Apple iPhone 11 (64GB) - Black )"
-            image="https://resizeimage.net/myimg/7SDIndfGwlUwReg1-pic-jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/51kGDXeFZKL._SL1024_.jpg"
             price={800.0}
             rating={3}
           />
@@ -55,7 +55,7 @@ function Home() {
           {/* Product */}
           <Product
             title='49" Odyssey G9 Gaming Monitor'
-            image="https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lc49g95tssnxza/Asset1.jpg?$product-details-jpg$"
+            image="https://images-na.ssl-images-amazon.com/images/I/81P7RZ9GEnL._SL1500_.jpg"
             price="1094.98"
             rating={3}
           />

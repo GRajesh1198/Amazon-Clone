@@ -23,6 +23,7 @@ function CheckoutProduct({ id, image, title, price, rating }) {
           {Array(rating)
             .fill()
             .map((_, i) => (
+              // eslint-disable-next-line jsx-a11y/accessible-emoji
               <p>⭐</p>
             ))}
         </div>
